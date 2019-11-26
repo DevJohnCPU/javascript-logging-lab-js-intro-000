@@ -1,3 +1,3 @@
-console.console.error("A ERROR JUST HAPPENED !");
-console.console.log("Continuing");
-console.console.console.warn("Dont do this !");
+console.error("A ERROR JUST HAPPENED !");
+console.log("Continuing");
+console.warn("Dont do this !");
